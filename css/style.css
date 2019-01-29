@@ -1245,3 +1245,10 @@ footer {
 .coming-soon{
     color: red;
 }
+.owl-carousel .item img{
+    display: block;
+    width: 100%;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
